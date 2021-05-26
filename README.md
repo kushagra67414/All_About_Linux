@@ -144,6 +144,14 @@ Fetching group details =>
 
 ## Process Management in Linux
 
+Kill command:
+
+kill 2343  // kill the process of this particular process id
+kill -9 2323,2564 // kill multiple process 
+
+Process command:
+![image](https://user-images.githubusercontent.com/46487696/119649781-a926aa80-be40-11eb-94d5-560514f0c41a.png)
+
 
 
 ## grep| egrep | fgrep
