@@ -144,3 +144,28 @@ Fetching group details =>
 
 ## Process Management in Linux
 
+
+
+## grep| egrep | fgrep
+
+grep "delhi" cities  // prints delhi from cities file
+
+flag:
+-i // ignore case sensitivity
+-c //count number pattern repeat in file
+-n // shows the line number of the pattern in file
+-v // shows negation of pattern
+-l //display file name if pattern matches from it 
+
+
+
+**grep with regular expression:**
+
+![image](https://user-images.githubusercontent.com/46487696/119623826-2e509600-be26-11eb-9d6b-258871bd1a41.png)
+
+![image](https://user-images.githubusercontent.com/46487696/119634104-0403d600-be30-11eb-8fe6-b59f21a41268.png)
+
+![image](https://user-images.githubusercontent.com/46487696/119634115-06fec680-be30-11eb-9b50-c54fd6afec92.png)
+
+![image](https://user-images.githubusercontent.com/46487696/119634130-09f9b700-be30-11eb-877c-2fa23cb0ebdc.png)
+
