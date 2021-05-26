@@ -152,7 +152,7 @@ kill -9 2323,2564 // kill multiple process
 Process command:
 ![image](https://user-images.githubusercontent.com/46487696/119649781-a926aa80-be40-11eb-94d5-560514f0c41a.png)
 
-
+ps -e | head -5
 
 ## grep| egrep | fgrep
 
