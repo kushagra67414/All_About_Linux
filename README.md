@@ -177,3 +177,18 @@ flag:
 
 ![image](https://user-images.githubusercontent.com/46487696/119634130-09f9b700-be30-11eb-877c-2fa23cb0ebdc.png)
 
+
+
+## Networking and Troubleshooting in Linux
+
+![image](https://user-images.githubusercontent.com/46487696/119850254-039c3580-bf2b-11eb-9ea6-20aa730b89ad.png)
+
+![image](https://user-images.githubusercontent.com/46487696/119850346-16166f00-bf2b-11eb-84fb-98ec011e9746.png)
+
+![image](https://user-images.githubusercontent.com/46487696/119850393-229ac780-bf2b-11eb-88e6-6addf7e0b853.png)
+
+![image](https://user-images.githubusercontent.com/46487696/119850459-321a1080-bf2b-11eb-8872-98b3f91b5c74.png)
+
+![image](https://user-images.githubusercontent.com/46487696/119850522-4100c300-bf2b-11eb-8751-f2b6eefcd73f.png)
+
+![image](https://user-images.githubusercontent.com/46487696/119850597-52e26600-bf2b-11eb-9e43-e3629ff5c12e.png)
